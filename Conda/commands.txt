@@ -1,0 +1,20 @@
+## Instalar Conda
+brew install anaconda
+
+## Crear ambiente
+conda create --name (nombre_ambiente)
+
+## Activar ambiente
+conda activate (nombre_ambiente)
+
+## Desactivar entorno
+conda deactivate
+
+## Listar todos los entornos cargadps
+conda info --envs
+
+## Borrar ambiente Conda
+conda env remove --name (nombre_ambiente)
+
+## Instalar programas con Conda
+conda install (nombre_programa)

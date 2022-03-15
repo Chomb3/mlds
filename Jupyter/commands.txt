@@ -1,0 +1,2 @@
+# Abrir nuevo notebook
+jupyter notebook

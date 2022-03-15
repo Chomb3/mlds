@@ -1,0 +1,3 @@
+# Conceptos
+Dataset: Fichero
+Dataframe: Dataset cargado dentro de un programa
